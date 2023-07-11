@@ -1,3 +1,3 @@
 # AplicationaLineaCommand
 
-## APlicação para buscar endereço de Ip e Servidor na internet
+## Aplicação para buscar endereço de Ip e Servidor na internet
